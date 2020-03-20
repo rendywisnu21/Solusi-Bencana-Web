@@ -4,6 +4,9 @@ Matkul  : Workshop Web Framework
 
 Aplikasi yang saya buat adalah aplikasi pendataan bencana di Indonesia
 
+Link:
+http://localhost/bencanaren/
+
 Konsep aplikasi ini sederhana saja, saya membuat crud untuk data bencana dan data admin
 namun pada data admin ini saya hanya membatasinya dengan create saja dikarenakan data admin hanya 
 butuh digunakan sekali saja, yaitu untuk login.
